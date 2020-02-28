@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/gui">
+        <file>img/plus.svg</file>
+        <file>img/minus.svg</file>
+        <file>img/refresh.svg</file>
+        <file>img/play.svg</file>
+        <file>img/pause.svg</file>
+        <file>img/stop.svg</file>
+    </qresource>
+</RCC>
