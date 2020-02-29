@@ -1,4 +1,4 @@
-# DynamicChart
+# DynamicCharts
 Тестовое приложение для знакомства с библиотекой [Qt Charts](https://doc.qt.io/qt-5/qtcharts-index.html).
 
 ![demo](https://user-images.githubusercontent.com/61391551/75566813-6cafa780-5a61-11ea-82a2-3fa4fccb4909.gif)
